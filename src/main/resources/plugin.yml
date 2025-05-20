@@ -1,10 +1,11 @@
-name: PerchSlimeChunkChecker
+name: SlimeChunkChecker
 version: ${project.version}
 main: io.github.tinyyana.slimechunkchecker.SlimeChunkCheckerPlugin
 api-version: 1.17
 prefix: SlimeChunkChecker
-authors: [ KayaLambrex ]
+authors: [ YanaTW ]
 description: Check whether the chunk you are in is a slime chunk.
+website: https://github.com/TinyYana
 permissions:
   SlimeChunkChecker.reload:
     description: access to reload config.
